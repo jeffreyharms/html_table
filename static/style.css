@@ -1,0 +1,19 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+}
+
+table tr th {
+    font-size: larger;
+    border: 2px solid black;
+}
+
+table tr td {
+    font-size: large;
+    border: 2px solid black;
+}
